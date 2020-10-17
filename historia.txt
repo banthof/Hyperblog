@@ -5,3 +5,5 @@ Anthony Flores tiene 21 años y nació en Perú
 mañana nos enfocaremos en su vida laboral
 
 modifiqué el user.email de git
+
+de nuevo modifiqué el user email al anterior, con el que empezó este archivo, o sea, ztrakoss20
