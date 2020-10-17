@@ -3,3 +3,5 @@ Esta es la historia de Anthony Flores
 Anthony Flores tiene 21 años y nació en Perú
 
 mañana nos enfocaremos en su vida laboral
+
+modifiqué el user.email de git
